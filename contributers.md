@@ -71,6 +71,7 @@
 | Arushi Pandey         | Arushi2911     | NMIMS Chandigarh |
 | Thanusha Nallabelli   | thanusha17     | IIIT Allahabad   | 
 |Aman Sharma |          | amansharma264  |Sir M Visvesvaraya Institute of Technology                                  |
-| Aaryan Degama  |  Aaryan-Degama  |  IIIT Allahabad                                                                  |
+| Aaryan Degama  |  Aaryan-Degama  |  IIIT Allahabad        
+|Aditi Deshmukh         | InsanelySlowBurn          | IIIT Allahabad                                                          |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->

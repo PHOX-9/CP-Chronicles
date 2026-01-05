@@ -1,10 +1,10 @@
-Submission Link: 
+Submission Link: https://codeforces.com/contest/2169/submission/356458128
 
 /*
-I made a function 'check' to check if number of remaing element after performing x operation before any element z is greater than or equal to k.
-Now by binary search I found out the smallest element that satisfy this condition. The smallest element to satisfy ths solution will be 
-kth element itself. Also before performing this I found out if k element exist till 1e12, if no then printed -1.
-TC: O(x*log(1e12))
+I made a function 'check' to check if number of remaining element after performing x operation before any element z is greater than or
+equal to k. Now by binary search I found out the smallest element that satisfy this condition. The smallest element to satisfy 
+ths solution will be kth element itself. Also before performing this I found out if k element exist till 1e12, if no then printed -1.
+TC:O(x*log(1e12))
 */
 
 #include <bits/stdc++.h>

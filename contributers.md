@@ -87,6 +87,8 @@
 | Anshdeep Singh | Anshdeep-Singh-9 | IIIT Allahabad |
 | Debojyoti Chakrabarti | debo5000 | IIIT Allahabad |
 | Devanshu Chotiya | devanshuwebd | IIT Dhanbad |
+| Prajjawal Vaishya      | Prajjawal-Vaishya          | Amity University Online Noida  
+| Mann Kumar Gupta | mann126 | IIIT Allahabad |                                |
 | Prajjawal Vaishya      | Prajjawal-Vaishya          | Amity University Online Noida                                    |
 |Rudra Mina|rudraminaa|IIIT Allahabad|
 | Anukriti Jain          | heyAnukritiJain            | Banasthali Vidyapith 

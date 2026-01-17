@@ -92,5 +92,6 @@
 | Prajjawal Vaishya      | Prajjawal-Vaishya          | Amity University Online Noida                                    |
 |Rudra Mina|rudraminaa|IIIT Allahabad|
 | Anukriti Jain          | heyAnukritiJain            | Banasthali Vidyapith 
+| Aakriti Singh           | AakritiSingh05            | Banasthali Vidyapith                                             |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
